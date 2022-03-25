@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/say-hello/build/
+/user/build/
